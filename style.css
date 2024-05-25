@@ -1,0 +1,15 @@
+#buttons, #buttons_2 {
+    text-align: center;
+    height: 100px;
+}
+
+table {
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#random8Button, #random7Button, #random6Button, #random5Button, #minQueenButton, #maxQueenButton, #freeButton {
+    height: 100px; 
+    width: 100px
+}
